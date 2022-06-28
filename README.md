@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victoria-ShengjunHong
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on develop new and powerful AI algorithms to find drug targets for cancer therapy.
+- 💞️ I’m looking to collaborate on develop new and powerful AI algorithms to find drug targets for cancer therapy
 - 📫 How to reach me: victoria.shengjun.hong@gmail.com
 
 <!---
